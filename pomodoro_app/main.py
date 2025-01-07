@@ -76,7 +76,7 @@ window.config(padx=100, pady=50, bg=YELLOW)
 
 #canvas widget: allows layering, draw something on top of something ,etc
 canvas = Canvas(width=200, height=224, bg=YELLOW, highlightthickness=0)
-tomato_image = PhotoImage(file="tomato.png")
+tomato_image = PhotoImage(file="pomodoro_app/tomato.png")
 canvas.create_image(100,112, image=tomato_image) #x and y values half of canvas to be right in middle
 timer_text = canvas.create_text(100, 130, text="00:00", fill="white", font=(FONT_NAME, 35, "bold"))
 canvas.grid(column=1, row=1)
