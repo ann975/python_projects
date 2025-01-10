@@ -10,3 +10,5 @@ provides additional prompts to check user's input, add exception handling,
 Created NATO alphabet phoneticizer 
 
 Create flashcard app to study french words, saving learned words into separate csv file
+
+Create automated birthday wisher using Google SMTP port, host on cloud through PythonAnywhere
