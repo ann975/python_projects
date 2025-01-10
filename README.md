@@ -12,3 +12,5 @@ Created NATO alphabet phoneticizer
 Create flashcard app to study french words, saving learned words into separate csv file
 
 Create automated birthday wisher using Google SMTP port, host on cloud through PythonAnywhere
+
+Create ISS spotter using API request that alerts user when the ISS is overhead and able to be spotted at night. Sends email alerting user.
