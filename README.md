@@ -8,3 +8,5 @@ gives user option to generate random password automatically saved to clipboard,
 provides additional prompts to check user's input, add exception handling,  
 
 Created NATO alphabet phoneticizer 
+
+Create flashcard app to study french words, saving learned words into separate csv file
