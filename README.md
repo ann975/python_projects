@@ -14,3 +14,5 @@ Create flashcard app to study french words, saving learned words into separate c
 Create automated birthday wisher using Google SMTP port, host on cloud through PythonAnywhere
 
 Create ISS spotter using API request that alerts user when the ISS is overhead and able to be spotted at night. Sends email alerting user.
+
+Create quiz app with randomly generated questions from Open Trivia API with interactive user interface 
